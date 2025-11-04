@@ -1,0 +1,10 @@
+customtkinter==5.2.1
+pillow==10.1.0
+requests==2.31.0
+matplotlib==3.8.2
+
+# Optional: For Google Voice SMS support
+# googlevoice
+
+# Optional: For AWS SNS SMS support
+# boto3
